@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Wojcieszak</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamil-wojcieszak" alt="kamil-wojcieszak" /></a> </p>
-
 - 🔭 I’m currently working on [BikiniOS](https://github.com/Kamil-Wojcieszak/BikiniOS-BackEnd)
 
 - 🌱 I’m currently learning **Frontend development with React.js**
