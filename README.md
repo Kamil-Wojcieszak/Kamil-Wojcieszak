@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frontend development with React.js**
 
-- 👨‍💻 All of my projects are available at [github.com/Kamil-Wojcieszak/](github.com/Kamil-Wojcieszak/)
-
 - 📫 How to reach me **dev.kamil.wojcieszak@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
